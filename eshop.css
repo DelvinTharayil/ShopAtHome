@@ -6,11 +6,6 @@
     box-sizing: border-box;
   }
 
-  #loadOverlay
-  {
-    display: none ;
-  }
-
   :root {
     --r-exlargepx:calc(26px + (32 - 26) * ((100vw -  370px) / (1600 - 370))); /*32px responsive*/
     --r-largepx: calc(20px + (25 - 20) * ((100vw -  370px) / (1600 - 370)));/*25px responsive*/
@@ -22,6 +17,7 @@
   body {
   min-width: 370px;
   background-color:#eee;
+  visibility: hidden;
   animation: bodyoverflow 0.5s  4.6s both
 }
 
