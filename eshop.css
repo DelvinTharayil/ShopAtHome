@@ -17,7 +17,6 @@
   body {
   min-width: 370px;
   background-color:#eee;
-  visibility: hidden;
   animation: bodyoverflow 0.5s  4.6s both
 }
 
@@ -280,7 +279,7 @@ animation: shophfadein 0.5s  4.9s both ;
 }
 
 #ImgAndCart{
-
+  visibility: hidden;
   animation: shophfadein 0.5s  4.9s both ; 
   transition: all  0.5s  ease;
   transform-style: preserve-3d;
