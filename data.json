@@ -1,0 +1,77 @@
+{
+    "product": [
+        {
+            "id": "1",
+            "cartId": "A",
+            "Name": "Glow Handbag",
+            "Price": 2000,
+            "FullPrice": 2000,
+            "photo": "assets/Hhadbag.png",
+            "info": [
+                "Good quality",
+                "Excellent reviews",
+                "In trend"
+            ]
+        },
+        {
+            "id": "2",
+            "cartId": "B",
+            "Name": "Flash Backpack",
+            "Price": 1000,
+            "FullPrice": 1000,
+            "photo": "assets/Hbackpack.png",
+            "info": [
+                "Trusted brand",
+                "Selling fast"
+            ]
+        },
+        {
+            "id": "3",
+            "cartId": "C",
+            "Name": "Brown Hat",
+            "Price": 1399,
+            "FullPrice": 1399,
+            "photo": "assets/Hhat.png",
+            "info": [
+                "Good quality",
+                "Excellent reviews",
+                "In trend",
+                "Trusted brand",
+                "Selling fast"
+            ]
+        },
+        {
+            "id": "4",
+            "cartId": "D",
+            "Name": "Gold Necklace",
+            "Price": 2999,
+            "FullPrice": 2999,
+            "photo": "assets/Hnecklace.png"
+        },
+        {
+            "id": "5",
+            "cartId": "E",
+            "Name": "Moon Glasses",
+            "Price": 2000,
+            "FullPrice": 2000,
+            "photo": "assets/HSunglasses.png",
+            "info": [
+                "Good quality",
+                "Excellent reviews",
+                "In trend"
+            ]
+        },
+        {
+            "id": "6",
+            "cartId": "F",
+            "Name": "Midway Bag",
+            "Price": 1000,
+            "FullPrice": 1000,
+            "photo": "assets/Hgymbag.png",
+            "info": [
+                "Trusted brand",
+                "Selling fast"
+            ]
+        }
+    ]
+}
