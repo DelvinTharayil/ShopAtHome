@@ -5,6 +5,12 @@
     outline: 0;
     box-sizing: border-box;
   }
+
+  #loadOverlay
+  {
+    display: none !important;
+  }
+
   :root {
     --r-exlargepx:calc(26px + (32 - 26) * ((100vw -  370px) / (1600 - 370))); /*32px responsive*/
     --r-largepx: calc(20px + (25 - 20) * ((100vw -  370px) / (1600 - 370)));/*25px responsive*/
@@ -17,11 +23,6 @@
   min-width: 370px;
   background-color:#eee;
   animation: bodyoverflow 0.5s  4.6s both
-}
-
-#loadOverlay
-{
-  display: none;
 }
 
 @keyframes bodyoverflow {
