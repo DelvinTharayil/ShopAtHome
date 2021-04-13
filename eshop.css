@@ -19,6 +19,11 @@
   animation: bodyoverflow 0.5s  4.6s both
 }
 
+#loadOverlay
+{
+  display: none;
+}
+
 @keyframes bodyoverflow {
   0% {
     height: 100%;
