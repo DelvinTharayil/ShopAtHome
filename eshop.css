@@ -493,7 +493,6 @@ rotateX(30deg)
   width: 100vw;
   height: 100vh;
   padding-top: 150px;
-  visibility: hidden;
   overflow: hidden;
   transition: all 0.5s ease-out;
   /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
